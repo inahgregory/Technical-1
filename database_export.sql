@@ -1,0 +1,3 @@
+-- Basic POS System laboratory activity
+-- Version 1 uses static PHP arrays only.
+-- No database tables are required or exported for this activity.
